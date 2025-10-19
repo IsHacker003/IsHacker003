@@ -33,5 +33,7 @@ I honesly have no words to describe the horrible actions commited by Facebook/Me
 Amazon is famous for the Swindle ("Kindle") Ebook reader, which is full of universal backdoors. It also imposes DRM. In fact, one of the reasons Amazon is fsmous for is DRM. And of course, they too spy on you for ad (re)targeting and other marketing purposes.
 
 Devices like the Echo and Alexa are listening 24x7, and Amazon keeps these recordings for *years*.
+
+
 <img src="scamazon.png"></img>
 ## Microsoft
