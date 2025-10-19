@@ -30,7 +30,7 @@ However, my hate towards them is indirect, as I never really owned any RottenApp
 I honesly have no words to describe the horrible actions commited by Facebook/Meta. Just know that, if you are using any Facebook program(s) (which include the Facebook app, Whatsapp, Instagram, Threads, etc.), you **must** quit immediately and uninstall the program(s). Facebook/Meta collects as much data about you as possible, and their tracking doesn't really stop even when you don't have an account or you don't use Facebook's software. To get complete protection, you need to set up a firewall and block every Facebook domain. Recently, Facebook called GNU/Linux as "malware", although their own servers run on GNU/Linux. This makes them ungrateful as well.
 <img src="1s7rs36zmp2f1.png"></img>
 ## Amazon
-Amazon is famous for the Swindle ("Kindle") Ebook reader, which is full of universal backdoors. It also imposes DRM. In fact, one of the reasons Amazon is fsmous for is DRM. And of course, they too spy on you for ad (re)targeting and other marketing purposes.
+Amazon is famous for the Swindle ("Kindle") Ebook reader, which is full of universal backdoors. It also imposes DRM. In fact, one of the reasons Amazon is famous for is DRM. And of course, they too spy on you for ad (re)targeting and other marketing purposes.
 
 Devices like the Echo and Alexa are listening 24x7, and Amazon keeps these recordings for *years*.
 
