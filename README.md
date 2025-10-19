@@ -49,7 +49,7 @@ All of these kinds of spying also drastically reduce the performance of the comp
 
 **Bloat/adware**
 
-Windows contains a lot of bloatware by default, which are always proprietary software. Sone of them are also installed by the OEM. The start menu (and more recently the BSOD screen) contain ads and promotions.
+Windows contains a lot of bloatware by default, which are always proprietary software. Some of them are also installed by the OEM. The start menu (and more recently the BSOD screen) contain ads and promotions.
 
 **Backdoors**
 
