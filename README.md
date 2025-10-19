@@ -28,4 +28,4 @@ However, my hate towards them is indirect, as I never really owned any RottenApp
 <img src="image-58-1024x512_RottenApple.png"></img>
 ## Facebook
 I honesly have no words to describe the horrible actions commited by Facebook/Meta. Just know that, if you are using any Facebook program(s) (which include the Facebook app, Whatsapp, Instagram, Threads, etc.), you **must** quit immediately and uninstall it. Facebook/Meta collects as much data about you as possible, and their tracking doesn't really stop even when you don't have an account or you don't use Facebook's software. To get complete protection, you need to set up a firewall and block every Facebook domain. Recently, Facebook called GNU/Linux as "malware", although their own servers run on GNU/Linux. This makes them ungrateful as well.
-<img src="
+<img src="1s7rs36zmp2f1.png"></img>
