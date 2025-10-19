@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # My thoughts on the GAFAM
 ## Google
-Google's proprietary Android apps not only invade your privacy by collecting your data non-stop and "selling" it (they do sell it, it's just that they don't want to confess), their apps also drain battery like crazy and slow down your device by *a lot*. Google play store and Google play services contain universal backdoors, through which Google (and probably other people too) can forcible remove and install apps. The new APK sideloading block (coming in 2026) will also be implemented through this backdoor.
+Google's proprietary Android apps not only invade your privacy by collecting your data non-stop and "selling" it (they do sell it, it's just that they don't want to confess), their apps also drain battery like crazy and slow down your device by *a lot*. Google play store and Google play services contain universal backdoors, through which Google (and probably other people too) can forcibly remove and install apps. The new APK sideloading block (coming in 2026) will also be implemented through this backdoor.
 <img src="google-quote-tracking.0YItQmgR_Z1ehWGe.png"></img>
 ## Apple
 I personally call them "RottenApple". iOS and MacOS are proprietary operating systems, and they are **jails**. They lock you in to their walled garden, and enforce DRM. And of course, they also spy on you, just as you would expect from the GAFAM. 
