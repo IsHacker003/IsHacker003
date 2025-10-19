@@ -38,17 +38,21 @@ Devices like the Echo and Alexa are listening 24x7, and Amazon keeps these recor
 <img src="scamazon.png"></img>
 ## Microsoft
 Also called "Microshit". They are famous for their proprietary "Operating System", Windows. Windows contains a ton of malicious functionalities: spyware, adware, DRM, backdoors, etc.
+
 **Spying**
 
 Windows collects a huge amount of data about you. It includes your precise geolocation, your files, what programs are installed, how often you open a program, registry values (which can contain sensitive information like passwords and credit card numbers), and if a microphone is available, it will listen to you all the time. Their e-mail service, Outlook, has become a [data collection and ad delivery service](https://proton.me/blog/outlook-is-microsofts-new-data-collection-service).
 
 **Bloat/adware**
+
 Windows contains a lot of bloatware by default, which are always proprietary software. Sone of them are also installed by the OEM. The start menu (and more recently the BSOD screen) contain ads and promotions.
 
 **Backdoors**
+
 Windows has a universal backdoor, through which any change whatsoever can be imposed. Microsoft has also backdoored the disk encryption, so they have your BitLocker encryption key.
 
 **Miscellaneous**
 
 Another thing which personally bothers me is that Windows costs money. Though it is not related to the idealism of FLOSS, I strongly believe that an Operating System, which is the core of the computer, should be available gratis. Yes, there are FLOSS "Windows activators" out there, but those don't make the situation any less bad.
+
 <img src="8867.Microshit_5F00_Logo_2D00_for_2D00_screen-1024x376.png"></img>
