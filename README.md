@@ -59,7 +59,7 @@ Windows has a universal backdoor, through which any change whatsoever can be imp
 
 **DRM**
 
-Windows constantly promotes and enforces DRM. Other members of the GAFAM (such as Google, for their Widevine DRM) impose DRM too, but I have nit bothered to mention them in their sections as the DRM is easily removable.
+Windows constantly promotes and enforces DRM. Other members of the GAFAM (such as Google, for their Widevine DRM) impose DRM too, but I have not bothered to mention them in their sections as the DRM is easily removable.
 
 But it's different for Windows. Windows contains the Widevine and PlayReady DRM by default. Even if you remove all DRM-related files from the OS, DRM will *not* get removed comoletely, and it will break several things (like windows updates).
 
