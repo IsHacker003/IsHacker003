@@ -57,6 +57,14 @@ Windows contains a lot of bloatware by default, which are always proprietary sof
 
 Windows has a universal backdoor, through which any change whatsoever can be imposed. Microsoft has also backdoored the disk encryption, so they have your BitLocker encryption key.
 
+**DRM**
+
+Windows constantly promotes and enforces DRM. Other members of the GAFAM (such as Google, for their Widevine DRM) impose DRM too, but I have nit bothered to mention them in their sections as the DRM is easily removable.
+
+But it's different for Windows. Windows contains the Widevine and PlayReady DRM by default. Even if you remove all DRM-related files from the OS, DRM will *not* get removed comoletely, and it will break several things (like windows updates).
+
+There was also a proprietary program, Microsoft Silverlight, which imposed DRM.
+
 **Miscellaneous**
 
 Another thing which personally bothers me is that Windows costs money. Though it is not related to the idealism of FLOSS, I strongly believe that an Operating System, which is the core of the computer, should be available gratis. Yes, there are FLOSS "Windows activators" out there, but those don't make the situation any less bad.
