@@ -61,7 +61,7 @@ Windows has a universal backdoor, through which any change whatsoever can be imp
 
 Windows constantly promotes and enforces DRM. Other members of the GAFAM (such as Google, for their Widevine DRM) impose DRM too, but I have not bothered to mention them in their sections as the DRM is easily removable from their operating systems (for example, DRM can be removed from Android just by installing a single Magisk module).
 
-But it's different for Windows. Windows contains the Widevine and PlayReady DRM by default. Even if you remove all DRM-related files from the OS, DRM will *not* get removed comoletely, and it will break several things (like windows updates).
+But it's different for Windows. Windows contains the Widevine and PlayReady DRM by default. Even if you remove all DRM-related files from the OS, DRM will *not* get removed completely, and it will break several things (like Windows updates).
 
 There was also a proprietary program, Microsoft Silverlight, which imposed DRM.
 
