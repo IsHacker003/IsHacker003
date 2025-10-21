@@ -70,3 +70,6 @@ There was also a proprietary program, Microsoft Silverlight, which imposed DRM.
 Another thing which personally bothers me is that Windows costs money. Though it is not related to the idealism of FLOSS, I strongly believe that an Operating System, which is the core of the computer, should be available gratis. Yes, there are FLOSS "Windows activators" out there, but those don't make the situation any less bad.
 
 <img src="8867.Microshit_5F00_Logo_2D00_for_2D00_screen-1024x376.png"></img>
+
+
+*I hereby license this text under Creative Commons Zero 1.0 Universal, and release it into the public domain without any copyright restrictions.*
