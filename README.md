@@ -40,7 +40,7 @@ Devices like the Echo and Alexa are listening 24x7, and Amazon keeps these recor
 
 <img src="images/scamazon.png"></img>
 ## Microsoft
-Also called "Microshit". They are famous for their proprietary "Operating System", Windows. Windows contains a ton of malicious functionalities: spyware, adware, DRM, backdoors, etc.
+Also called "Microshit" or "Microslop". They are famous for their proprietary "Operating System", Windows. Windows contains a ton of malicious functionalities: spyware, adware, DRM, backdoors, etc.
 
 **Spying**
 
