@@ -46,7 +46,7 @@ Also called "Microshit" or "Microslop". They are famous for their proprietary "O
 
 Windows collects a huge amount of data about you. It includes your precise geolocation, your files, what programs are installed, how often you open a program, registry values (which can contain sensitive information like passwords and credit card numbers), and if a microphone is available, it will listen to you all the time. Their e-mail service, Outlook, has become a [data collection and ad delivery service](https://proton.me/blog/outlook-is-microsofts-new-data-collection-service).
 
-The Windows Recall spyware is also being forced onto users since Windows 11 24H2, which records *everything* you do on the computer.
+The Windows Recall spyware and Copilot slop is also being forced onto users since Windows 11 24H2, which records *everything* you do on the computer.
 
 All of these kinds of spying also drastically reduce the performance of the computer.
 
